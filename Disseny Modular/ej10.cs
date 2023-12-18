@@ -10,7 +10,7 @@ namespace DissenyModularEx10
             int[] list = new int[10];
             for (int i = 0; i < list.Length; i++)
             {
-                list[i] =  Convert.ToInt32(rand.Next(200));
+                list[i] =  Convert.ToInt32(rand.Next(201));
             }
             Search(list);
 
