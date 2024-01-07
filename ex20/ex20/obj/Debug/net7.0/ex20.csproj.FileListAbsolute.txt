@@ -1,0 +1,14 @@
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.AssemblyInfoInputs.cache
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.AssemblyInfo.cs
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.csproj.CoreCompileInputs.cache
+C:\Users\raul8\source\repos\ex20\ex20\bin\Debug\net7.0\ex20.exe
+C:\Users\raul8\source\repos\ex20\ex20\bin\Debug\net7.0\ex20.deps.json
+C:\Users\raul8\source\repos\ex20\ex20\bin\Debug\net7.0\ex20.runtimeconfig.json
+C:\Users\raul8\source\repos\ex20\ex20\bin\Debug\net7.0\ex20.dll
+C:\Users\raul8\source\repos\ex20\ex20\bin\Debug\net7.0\ex20.pdb
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.dll
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\refint\ex20.dll
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.pdb
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ex20.genruntimeconfig.cache
+C:\Users\raul8\source\repos\ex20\ex20\obj\Debug\net7.0\ref\ex20.dll
