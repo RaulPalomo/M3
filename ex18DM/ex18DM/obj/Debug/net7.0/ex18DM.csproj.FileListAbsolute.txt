@@ -1,0 +1,14 @@
+C:\Users\raul8\source\repos\ex18DM\ex18DM\bin\Debug\net7.0\ex18DM.exe
+C:\Users\raul8\source\repos\ex18DM\ex18DM\bin\Debug\net7.0\ex18DM.deps.json
+C:\Users\raul8\source\repos\ex18DM\ex18DM\bin\Debug\net7.0\ex18DM.runtimeconfig.json
+C:\Users\raul8\source\repos\ex18DM\ex18DM\bin\Debug\net7.0\ex18DM.dll
+C:\Users\raul8\source\repos\ex18DM\ex18DM\bin\Debug\net7.0\ex18DM.pdb
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.AssemblyInfoInputs.cache
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.AssemblyInfo.cs
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.csproj.CoreCompileInputs.cache
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.dll
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\refint\ex18DM.dll
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.pdb
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ex18DM.genruntimeconfig.cache
+C:\Users\raul8\source\repos\ex18DM\ex18DM\obj\Debug\net7.0\ref\ex18DM.dll
